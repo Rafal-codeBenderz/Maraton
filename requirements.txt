@@ -1,7 +1,7 @@
-streamlit==1.45.1
+streamlit==1.44.1
 pandas==2.1.4
 pycaret==3.3.2
-langfuse==3.0.1
-openai==1.85.0
-python-dotenv==1.1.0
-python 3.11.13
+python-dotenv
+langfuse==3.0.0
+openai==1.66.3
+boto3
