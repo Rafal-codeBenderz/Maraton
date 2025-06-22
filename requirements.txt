@@ -5,3 +5,4 @@ python-dotenv
 langfuse==3.0.0
 openai==1.66.3
 boto3
+python==3.11.0
