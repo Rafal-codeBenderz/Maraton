@@ -4,3 +4,4 @@ pycaret==3.3.2
 langfuse==3.0.1
 openai==1.85.0
 python-dotenv==1.1.0
+python 3.11.13
