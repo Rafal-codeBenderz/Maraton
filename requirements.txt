@@ -1,8 +1,9 @@
-streamlit==1.44.1
-pandas==2.1.4
-pycaret==3.3.2
+openai
+streamlit
+langfuse
 python-dotenv
-langfuse==3.0.0
-openai==1.66.3
+pycaret
+matplotlib
+seaborn
+numpy
 boto3
-python==3.11.0
