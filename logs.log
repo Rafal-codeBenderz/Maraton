@@ -2064,3 +2064,21 @@ This will raise in a future version.
 
   warnings.warn(msg, FutureWarning)
 
+2025-06-22 12:19:43,687:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-22 12:19:43,687:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-22 12:19:43,687:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-22 12:19:43,687:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-22 12:19:45,621:INFO:Initializing load_model()
+2025-06-22 12:19:45,621:INFO:load_model(model_name=best_model, platform=None, authentication=None, verbose=True)
+2025-06-22 12:19:46,398:WARNING:C:\Users\Rafal\miniconda3\envs\od_zera_do_ai\Lib\site-packages\dask\dataframe\__init__.py:49: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+
+  warnings.warn(msg, FutureWarning)
+
